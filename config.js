@@ -8,7 +8,7 @@ module.exports = {
   spotifyClientId : "",
   spotifyClientSecret : "",
   setupFilePath: './commands/setup.json',
-  commandsDir: './commands',  
+  commandsDir: '.m!play',  
   embedColor: "#1db954",
   activityName: "muisc bot powerd by winter dev", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
